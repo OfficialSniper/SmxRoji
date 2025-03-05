@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: red;
+}
+
+h2 {
+    font-size: 2rem;
+    color: yellow;
+}
+
+.links a {
+    display: block;
+    font-size: 1.5rem;
+    color: cyan;
+    text-decoration: none;
+    margin: 10px;
+}
+
+h3 {
+    font-size: 2rem;
+    color: purple;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
